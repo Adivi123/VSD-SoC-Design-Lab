@@ -1,4 +1,4 @@
-# VSD-SoC Design using Opensource tools
+# VSD-SoC Design using opensource tools
 
 ## Module 1 -Open source (EDA - Open LANE - Sky130 PDK)
 
