@@ -7,6 +7,7 @@
 ![Synthesis](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/509075cc-824e-42b0-b664-a43f070da4b4)
  > ## Floorplan ##
 ![FloorPlan](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/dd2c8460-31e2-427a-891c-0664921985a1)
+![Floorplann](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/37eb889a-9896-4167-bdbb-8a240d890cc1)
  > ## Routing ##
 ![Routing](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/3088fd2b-469b-47f4-8988-5367e7a908da)
  > ## Magic ##
