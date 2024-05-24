@@ -10,6 +10,7 @@
 ![Floorplann](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/37eb889a-9896-4167-bdbb-8a240d890cc1)
  > ## Routing ##
 ![Routing](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/3088fd2b-469b-47f4-8988-5367e7a908da)
+![Routingg](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/785595d3-e0a7-4864-9902-41932668375c)
  > ## Magic ##
 ![magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9264ff41-6f36-4743-9663-ed66d8647615)
  > ## lvs ##
