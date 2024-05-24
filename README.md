@@ -17,7 +17,8 @@
 ![Maggic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f6bdc6d9-b9d9-4fd4-9309-83319027cbc6)
  > ## lvs ##
 ![lvs](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9faa5efd-7df7-45ce-a1dc-6f094c4de9b7)
-
+> > ## Magic tool ##
+   ![FloorPlan_layout](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/3b1b045c-3022-40c2-ae15-3f97ed16927d)
 ## Module 2- Floorplan
 
 ## Module 3- Cell Design
