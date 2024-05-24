@@ -3,7 +3,7 @@
 ## Module 1 -Open source (EDA - OpenLANE - Sky130 PDK)
  > ## Default Configuration - Openlane Execution ##
 ![lab1](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/61b58e86-a2dc-4ec3-91d0-d3a9d4949d29)
- > ## Synthesis##
+ > ## Synthesis ##
  > ## Floorplan ##
  > ## Routing ##
  > ## Magic ##
