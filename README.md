@@ -24,7 +24,7 @@
    ![FlopRatio](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/bac02752-3755-4b46-bdb7-4cc6a2033220)
 ## Module 2- Floorplan
 > ## * prep -design picorv32a -> * run synthesis --> * run floorplan ##
-
+![1_select_picorv32a](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/cbb3e551-21e0-4998-9b1d-7e8a668c3819)
 ## Module 3- Cell Design
 
 ## Module 4- Timing Analysis
