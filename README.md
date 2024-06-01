@@ -23,7 +23,7 @@
 > > ## Flop Ratio ##
    ![FlopRatio](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/bac02752-3755-4b46-bdb7-4cc6a2033220)
 ## Module 2- Floorplan
-> ## * prep -design picorv32a -> * run synthesis --> * run floorplan ##
+> ## * prep -design picorv32a -> * run synthesis --> * run floorplan --> * run placement ##
 ![1_select_picorv32a](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/cbb3e551-21e0-4998-9b1d-7e8a668c3819)
 ![2_run_Synth](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e52bafc0-8593-499a-b70b-896f51700550)
 ![3_run_floor](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/a7e4d201-4cae-46fa-be77-d7b58d99be23)
