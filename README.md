@@ -20,6 +20,8 @@
 > > ## Magic tool ##
    ![FloorPlan_layout](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/3b1b045c-3022-40c2-ae15-3f97ed16927d)
    ![mtool](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/a0012d1b-49d4-4625-86ba-8904d62db71c)
+> > ## Flop Ratio ##
+   ![FlopRatio](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/bac02752-3755-4b46-bdb7-4cc6a2033220)
 ## Module 2- Floorplan
 
 ## Module 3- Cell Design
