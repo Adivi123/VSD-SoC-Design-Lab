@@ -29,6 +29,9 @@
 ![3_run_floor](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/a7e4d201-4cae-46fa-be77-d7b58d99be23)
 ![4_floorplan_def](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/aeed9350-dfc1-4aa9-87d5-f02fffcadf87)
 ![5_floorplan_Def_magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f7d1f659-29dd-4814-b835-00d8b2e3ee9c)
+![6_placement](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/232aa127-d2e1-457b-8a39-f621884477e2)
+![7_magic_Placement](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9c90daa4-c591-45a5-acaf-eecda6df53ed)
+![8_magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/42a922fc-7eeb-4faf-8e7b-ce1e0b056678)
 ## Module 3- Cell Design
 
 ## Module 4- Timing Analysis
