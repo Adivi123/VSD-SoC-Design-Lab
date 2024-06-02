@@ -41,6 +41,11 @@ Download - github vsdstdcelldesign -->inverter layout
 ![3_3 1_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b9f2c653-a129-44d9-ac28-a190aa02b7a5)
 ![3_3_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/7aa6f01a-f04b-4245-865c-d50f3f8c7fcf)
 
+SPICE CMOS Inverter Simulation extracted from MAGIC 
+
+![3 4_Spiceextract](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e41eaf85-0ccb-4e7b-a0df-0a5941bd6c5f)
+![3 5_Spicecode](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/8ead8885-3581-4e1a-b1da-8c4adbad9f31)
+
 ## Module 4- Timing Analysis
 
 ## Module 5- RTL2GDS
