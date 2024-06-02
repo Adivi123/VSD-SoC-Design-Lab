@@ -36,6 +36,7 @@
 Download - github vsdstdcelldesign -->inverter layout
 
 ![3_1_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/42dd0459-97d3-44f6-8e11-7481d006007b)
+
 ## Module 4- Timing Analysis
 
 ## Module 5- RTL2GDS
