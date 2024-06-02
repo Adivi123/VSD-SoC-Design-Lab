@@ -32,7 +32,7 @@
 ![6_placement](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/232aa127-d2e1-457b-8a39-f621884477e2)
 ![7_magic_Placement](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9c90daa4-c591-45a5-acaf-eecda6df53ed)
 ![8_magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/42a922fc-7eeb-4faf-8e7b-ce1e0b056678)
-## Module 3- Cell Design
+## Module 3- Cell Design (Magic Layout and ngspice)
 
 ## Module 4- Timing Analysis
 
