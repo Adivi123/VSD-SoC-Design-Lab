@@ -36,6 +36,10 @@
 Download - github vsdstdcelldesign -->inverter layout
 
 ![3_1_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/42dd0459-97d3-44f6-8e11-7481d006007b)
+![3_2_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/ea9b4e99-2c38-4967-942a-49b1babfbf4b)
+![3_3 2_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/81e63d32-1b58-4292-986f-1c206e0a44a3)
+![3_3 1_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b9f2c653-a129-44d9-ac28-a190aa02b7a5)
+![3_3_Inverter_Layout_Magic](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/7aa6f01a-f04b-4245-865c-d50f3f8c7fcf)
 
 ## Module 4- Timing Analysis
 
