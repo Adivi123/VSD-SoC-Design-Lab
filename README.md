@@ -45,6 +45,9 @@ SPICE CMOS Inverter Simulation extracted from MAGIC
 
 ![3 4_Spiceextract](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e41eaf85-0ccb-4e7b-a0df-0a5941bd6c5f)
 ![3 5_Spicecode](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/8ead8885-3581-4e1a-b1da-8c4adbad9f31)
+![3 7 0_Spicecode](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/80dc7ce9-b87f-4aed-8fc7-fa4d3bc4c91d)
+![3 7_Spicecode](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/8be6d1a0-a4de-44f6-8306-3029ae3ea27b)
+![3 7 1_Spicecode](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b45311f8-8cfd-487a-8d64-3592a2f79087)
 
 ## Module 4- Timing Analysis
 
