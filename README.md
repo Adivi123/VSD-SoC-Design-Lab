@@ -60,6 +60,7 @@ DRC Section - sky130A.tech
 ![DRC Section](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/6a8bda06-bcc4-41a2-9b35-af975885fe59)
 ![update_path](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/0fa6f7e7-8b12-42b5-b67a-5494e870eeec)
 ![DRC_Error](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f0b354d0-1ca0-41d8-ad6f-cf29ea9349c2)
+...will add more to this
 ## Module 4- Timing Analysis
 
 ## Module 5- RTL2GDS
