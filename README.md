@@ -50,6 +50,10 @@ SPICE CMOS Inverter Simulation extracted from MAGIC
 ![3 7 1_Spicecode](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b45311f8-8cfd-487a-8d64-3592a2f79087)
 ![3 8](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/c2083fe9-0180-4e33-a4ca-7a824d58f6bc)
 ![3 8 1 11](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/7ece0094-c529-419d-8260-9ad25d179358)
+![3 9_fall_delay](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/6849ccd0-1296-4ab5-9610-13f91d714e2e)
+
+Raise delay = 10.09 ps
+Fall dealy = 14.43 ps
 
 ## Module 4- Timing Analysis
 
