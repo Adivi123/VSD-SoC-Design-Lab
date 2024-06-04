@@ -55,6 +55,10 @@ SPICE CMOS Inverter Simulation extracted from MAGIC
 Raise delay = 10.09 ps
 Fall dealy = 14.43 ps
 
+DRC Section
+
+![DRC Section](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/6a8bda06-bcc4-41a2-9b35-af975885fe59)
+
 ## Module 4- Timing Analysis
 
 ## Module 5- RTL2GDS
