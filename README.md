@@ -78,7 +78,7 @@ Tracks Info
 ![4_3](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/ff229dea-812f-4882-9889-d5aeedcf4c49)
 ![4_4](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/7a747a6c-dd88-4c44-9d95-72ecbfd72607)
 ![4_5](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f2c67e04-f4dc-48a1-bae3-79e2648d1397)
-![4_6](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/052e017c-d25a-40be-880b-4c40e88f1ef8)
+![4_6](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/5a386499-38f8-4930-b29d-65bf50a74bcf)
 
 ## Module 5- RTL2GDS
 
