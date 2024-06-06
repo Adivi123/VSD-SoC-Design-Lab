@@ -67,6 +67,7 @@ it violated as it has less than 0.33u
 
 ![3_1_1](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/28e86fbd-8680-43ca-bfa8-d7440755b4e8)
 ![3_1_2](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/1f517c10-1f81-42e7-ae98-9873b3ed58cd)
+![3_1_3](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/ac2b9401-7382-499d-ae4e-2ed9c7a856a6)
 ![3_1_4](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f81c407f-87cc-4793-bde7-25437a646879)
 ![3_1_5](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b75ec3c0-b29e-44e3-b6ca-364bdc72e622)
 ![3_1_6](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b989eef9-cc7d-4363-96f3-f46f25712120)
