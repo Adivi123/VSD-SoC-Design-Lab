@@ -61,6 +61,13 @@ DRC Section - sky130A.tech
 ![update_path](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/0fa6f7e7-8b12-42b5-b67a-5494e870eeec)
 ![DRC_Error](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f0b354d0-1ca0-41d8-ad6f-cf29ea9349c2)
 
+poly.9 - poly resistor spacing to poly or spacing - 0.480 um
+
+it violated as it has less than 0.33u
+
+![3_1_1](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/28e86fbd-8680-43ca-bfa8-d7440755b4e8)
+![3_1_2](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/1f517c10-1f81-42e7-ae98-9873b3ed58cd)
+
 ## Module 4- Timing Analysis
 
 ## Module 5- RTL2GDS
