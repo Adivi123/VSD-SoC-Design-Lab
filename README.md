@@ -72,6 +72,8 @@ it violated as it has less than 0.33u
 ![3_1_5](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b75ec3c0-b29e-44e3-b6ca-364bdc72e622)
 ![3_1_6](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b989eef9-cc7d-4363-96f3-f46f25712120)
 ## Module 4- Timing Analysis
+Tracks Info
+![tracks_info](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/5c3363f8-0f79-4980-afe7-4d63dce53bd8)
 
 ## Module 5- RTL2GDS
 
