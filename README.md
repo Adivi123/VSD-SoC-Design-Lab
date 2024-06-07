@@ -110,5 +110,14 @@ Magic Layout
 Routing
 ![5_15_routing](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b7e0637f-70e3-467a-af59-34a65a681e44)
 
+![5_16](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/d8f7ce83-ad0b-45cb-ad04-8115eea4d1c7)
+![5_16_detail_routing](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/2f239fd1-a40d-4a9e-9654-ebb606b8c9ee)
+![5_17](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/4aa999aa-16ec-4931-bce1-47383d2a8cdb)
+![5_18](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/0242c514-90e2-4a0d-908c-e5ea45d3dc41)
+![5_19](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/88ccb07b-b64a-48ec-92ba-935f3e049ec9)
+![5_20](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/67e89b32-f1ea-4a7c-a264-27e6adedff9d)
+![5_21](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/67a1324d-3398-4344-b250-9ac219200fa5)
+![5_22](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/8d7cd9be-2d2b-41f7-8571-b8a86b0da7d9)
+![5_23](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/891176f2-33c1-49ae-a622-c14d2f5d59df)
 
 
