@@ -84,6 +84,7 @@ Tracks Info
 ![4_9](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/73240c7a-7160-45a5-9845-bd8bbdd81d8e)
 ![4_10](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/65baff66-a8f4-4212-b03d-e9df0d94464e)
 ![4_11](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9cbf676b-1f98-452f-a4f6-847b885fb6fd)
+
 STA
 ![4_12_mybasae_sdc_file](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/d3292e4f-7c72-429d-becf-56e71dfecff8)
 ![4_13_pre_sta_conf](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e617ca60-26fe-4891-8edf-a7de314959c8)
@@ -109,6 +110,8 @@ Magic Layout
 
 Routing
 ![5_15_routing](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/b7e0637f-70e3-467a-af59-34a65a681e44)
+
+OpenSTA Timing Analysis - Parastics Extract
 
 ![5_16](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/d8f7ce83-ad0b-45cb-ad04-8115eea4d1c7)
 ![5_16_detail_routing](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/2f239fd1-a40d-4a9e-9654-ebb606b8c9ee)
