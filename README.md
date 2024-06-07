@@ -1,5 +1,6 @@
 # VSD-SoC Design using opensource tools
 
+![openlane-flow](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e982856e-52ba-404e-b138-568a1715d4db)
 
 
 ## Module 1 -Open source (EDA - OpenLANE - Sky130 PDK)
