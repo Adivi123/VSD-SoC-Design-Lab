@@ -105,6 +105,7 @@ STA
 Magic Layout
 
 ![5_13](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f654c6e2-35f6-4bd9-ab53-d1aaac00354b)
+![5_14](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/2e7379cb-b370-4d3b-82fb-595995984201)
 
 
 
