@@ -2,9 +2,6 @@
 
 ![Deisgn Flow](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/427d1910-772d-4820-9b05-b0407c612e4c)
 
-![openlane-flow](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e982856e-52ba-404e-b138-568a1715d4db)
-
-
 ## Module 1 -Open source (EDA - OpenLANE - Sky130 PDK)
  > ## Default Configuration - Openlane Execution ##
 ![lab1](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/61b58e86-a2dc-4ec3-91d0-d3a9d4949d29)
