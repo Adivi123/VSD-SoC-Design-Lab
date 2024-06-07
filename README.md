@@ -84,6 +84,7 @@ Tracks Info
 ![4_9](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/73240c7a-7160-45a5-9845-bd8bbdd81d8e)
 ![4_10](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/65baff66-a8f4-4212-b03d-e9df0d94464e)
 ![4_11](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9cbf676b-1f98-452f-a4f6-847b885fb6fd)
+STA
 ![4_12_mybasae_sdc_file](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/d3292e4f-7c72-429d-becf-56e71dfecff8)
 ![4_13_pre_sta_conf](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e617ca60-26fe-4891-8edf-a7de314959c8)
 
