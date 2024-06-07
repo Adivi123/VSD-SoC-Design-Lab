@@ -102,7 +102,9 @@ STA
 ![5_11](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/9e7b0f8f-d14a-4e5a-91eb-9474a5577be7)
 ![5_12](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/cbdebd60-f85a-40d2-9628-cf2c13263127)
 
+Magic Layout
 
+![5_13](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f654c6e2-35f6-4bd9-ab53-d1aaac00354b)
 
 
 
