@@ -125,4 +125,10 @@ OpenSTA Timing Analysis - Parastics Extract
 ![5_22](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/8d7cd9be-2d2b-41f7-8571-b8a86b0da7d9)
 ![5_23](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/891176f2-33c1-49ae-a622-c14d2f5d59df)
 
+## _RTL --> GDS_
 
+![5_25](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/e5248f4d-6efb-49b1-9ccb-d719f2d4f57a)
+
+## _GDS Image_
+
+![5_26](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f5131bca-038b-4811-843e-2eb29cdccb90)
