@@ -1,10 +1,6 @@
 # VSD-SoC Design using opensource tools
 
-## *Module-1 : Opensource ( EDA - Open LANE - Sky130 PDK)*
-## *Module-2 : Floorplan*
-## *Module-3 : Cell Design(Magic Layout and ngspice)*
-## *Module-4 : Timing Analysis*
-## *Module-5 : RTL - to - GDS*
+
 
 ## Module 1 -Open source (EDA - OpenLANE - Sky130 PDK)
  > ## Default Configuration - Openlane Execution ##
