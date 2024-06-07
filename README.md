@@ -78,7 +78,6 @@ Tracks Info
 ![4_3](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/ff229dea-812f-4882-9889-d5aeedcf4c49)
 ![4_4](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/7a747a6c-dd88-4c44-9d95-72ecbfd72607)
 ![4_5](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f2c67e04-f4dc-48a1-bae3-79e2648d1397)
-![4_5](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/0b991e97-1907-4348-8d2b-f7f59f134298)
 ![4_6](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/8b80b76c-7d0e-4700-8a28-e9946f27a21f)
 ![4_7](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/80afc2ea-376a-4be4-b20c-f3dd739e8eca)
 ![4_8](https://github.com/Adivi123/VSD-SoC-Design-Lab/assets/170654484/f1babb36-43cf-4b86-9d2d-81861a1a135e)
